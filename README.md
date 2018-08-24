@@ -1,8 +1,8 @@
 # OpenSourceLicense
 
-![image](https://github.com/zhuzhenjesse/OpenSourceLicense/blob/master/free_software_licenses.png "license")
+![image](https://raw.githubusercontent.com/zhuzhenjesse/OpenSourceLicense/master/free_software_licenses.png "license")
 
-![image](https://github.com/zhuzhenjesse/OpenSourceLicense/blob/master/open_source_license.svg "license")
+![image](https://raw.githubusercontent.com/zhuzhenjesse/OpenSourceLicense/master/open_source_license.svg "license")
 
 ## BSD开源协议
 BSD开源协议是一个给于使用者很大自由的协议。基本上使用者可以”为所欲为”,可以自由的使用，修改源代码，也可以将修改后的代码作为开源或者专有软件再发布。
